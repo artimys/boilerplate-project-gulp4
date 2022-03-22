@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+.title {
+    font-size: 50px;
+    color: purple;
+    position: sticky;
+    box-shadow: 10px 10px 10px black;
+    text-transform: uppercase;
+}
